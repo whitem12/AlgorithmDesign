@@ -1,4 +1,4 @@
-# AlgorithmDesign
+# Algorithm Design Manual
 Implementations as I read through The Algorithm Design Manual by Steven S. Skiena
 
 ## Data Structures
